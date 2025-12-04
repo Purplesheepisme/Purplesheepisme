@@ -6,10 +6,6 @@ w2i and c+h!<br>
 </p>
 
 <!-- Tag section -->
-<p>
-<span style="background-color:#3c1e66; color:white;">&nbsp;· PHIGHTERS ·&nbsp;</span>
-<span style="background-color:#7d3cff; color:white;">&nbsp;23,668&nbsp;</span>
-</p>
 
 <!-- Info text -->
 
