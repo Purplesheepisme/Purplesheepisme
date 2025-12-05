@@ -23,6 +23,7 @@ w2i and c+h!<br>
 
 
 
-align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&label=👑🌈&color=97503f" alt="Counter"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/👑-🌈12-97503f">
 </p>
+
