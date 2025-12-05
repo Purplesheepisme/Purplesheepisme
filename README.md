@@ -23,4 +23,4 @@ w2i and c+h!<br>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&color=#97503f" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&color=red" alt="Views"/>
