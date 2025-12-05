@@ -23,3 +23,5 @@ w2i and c+h!<br>
 
 ![Views](https://komarev.com/ghpvc/?username=Thehotelkeeper&color=red)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&color=red" alt="Views"/>
