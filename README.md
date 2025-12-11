@@ -19,11 +19,11 @@ w2i and c+h!<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&label=.HELLO.&color=3f253d" alt="Counter"/>
 </p>
-<img width="540" height="257" alt="image" src="https://github.com/user-attachments/assets/6e7a3219-89c9-42d6-aabe-5dda63a96ec1" />
 
 
 <img width="700" height="438" alt="image" src="https://github.com/user-attachments/assets/45074562-25ae-45be-a91e-7d9809cc33b0" />
 
 
+<img width="400" height="368" alt="image" src="https://github.com/user-attachments/assets/334235f8-384c-4b49-a8db-44b42fe3ca22" />
 
 
