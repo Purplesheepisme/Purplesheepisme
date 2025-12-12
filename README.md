@@ -15,7 +15,8 @@ ${\textsf{\color{#97503f}C}}{\textsf{\color{#533127}+}}{\textsf{\color{#b78e58}H
 <a href="https://purplesheep.atabook.org/" 
    style="color:#c9a2ff; background-color:#7d3cff; font-family:'Roboto', sans-serif; font-weight:bold; text-decoration:none;">
 &nbsp;ATABOOK👑&nbsp;
-︵
+︵ 
+     
 <a href="https://Charlieisme.straw.page/" 
    style="color:#c9a2ff; background-color:#7d3cff; font-family:'Roboto', sans-serif; font-weight:bold; text-decoration:none;">
 &nbsp;STRAW👑&nbsp;
