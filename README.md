@@ -12,21 +12,9 @@ ${\textsf{\color{#97503f}C}}{\textsf{\color{#533127}+}}{\textsf{\color{#b78e58}H
 
 <!-- Repository Link as Button -->
 <p>
-<a href="https://purplesheep.atabook.org/" 
-   style="color:#c9a2ff; background-color:#7d3cff; font-family:'Roboto', sans-serif; font-weight:bold; text-decoration:none;">
-&nbsp;ATABOOK👑&nbsp;
-     
-<a href="https://Charlieisme.straw.page/" 
-   style="color:#c9a2ff; background-color:#7d3cff; font-family:'Roboto', sans-serif; font-weight:bold; text-decoration:none;">
-&nbsp;STRAW👑&nbsp; 
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thehotelkeeper&label=.HELLO.&color=3f253d" alt="Counter"/>
-</p>
-
 
 <u><a href="https://Purplesheepisme.ataabook.org">ata</a></u>
-    ︵
+ ☆
 <u><a href="https://Charlieisme.straw.page">straw</a></u>
 
 
