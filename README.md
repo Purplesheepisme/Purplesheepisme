@@ -9,6 +9,8 @@ w2i and c+h!<br>
 
 <!-- Info text -->
 
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/712399cd-124d-449b-914a-c46fa9a27e25" />
+
 <!-- Repository Link as Button -->
 <p>
 <a href="https://purplesheep.atabook.org/" 
