@@ -17,6 +17,10 @@ ${\textsf{\color{#97503f}Mostly at}}{\textsf{\color{#533127}the}}{\textsf{\color
 
  ${\textsf{\color{#97503f}I have many}}$ ${\textsf{\color{#934b3b}styles so }}$ ${\textsf{\color{#b78f54}do NOT}}$ ${\textsf{\color{#b78f54}think im copying}}$ ${\textsf{\color{#ac814c}anyone.}}$
 
+${\textsf{\color{#97503f}Don't}}$ ${\textsf{\color{#934b3b}bother me}}$ ${\textsf{\color{#b78f54}with }}$ ${\textsf{\color{#b78f54}dramas}}$ ${\textsf{\color{#ac814c}Please!}}$
+
+${\textsf{\color{#97503f}THANK}}$ ${\textsf{\color{#934b3b}YEW!!}}$
+
 <p>
 <div align="center">
 <u><a href="https://Purplesheepisme.atabook.org">ata</a></u>
