@@ -10,6 +10,5 @@
 
 <p>
 <div align="center">
-✧  
 <u><a href="https://purplesheep.atabook.org">ata</a></u> ✦
 <u><a href="https://purplesheepisme.straw.page">straw</a></u>
