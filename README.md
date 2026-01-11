@@ -8,3 +8,8 @@
 
   <img width="232" height="218" alt="image" src="https://github.com/user-attachments/assets/bcb11c92-5282-4730-96b8-828cd7d36c1b" />
 
+<p>
+<div align="center">
+✧  
+<u><a href="https://purplesheep.atabook.org">ata</a></u> ✦
+<u><a href="https://purplesheepisme.straw.page">straw</a></u>
