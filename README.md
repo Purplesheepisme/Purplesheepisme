@@ -16,7 +16,7 @@ ${\Huge \textsf{\color{#8e4594}I have many}}$ ${\Huge \textsf{\color{#523660}sty
 <img width="956" height="778" alt="image" src="https://github.com/user-attachments/assets/c7364ca9-a83b-44bc-ab38-2a3409d1866c" />
 
 <div align="center">
-from Lain ily<3
+${\Huge \textsf{\color{#8e4594}From Lain ily..}}$
 <p>
 <div align="center">
 <u><a href="https://purplesheep.atabook.org">ata</a></u> ✦
@@ -25,3 +25,5 @@ from Lain ily<3
 <div align="center">
 
 ${\Huge \textsf{\color{#8e4594}*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚}}$
+
+<img width="1024" height="143" alt="image" src="https://github.com/user-attachments/assets/43915c42-e4c2-456a-88cf-28418ad0f16e" />
