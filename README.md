@@ -3,11 +3,11 @@
 
 <div align="center">
 
-${\Huge \textsf{\color{#5a4b64}𝐇𝐄𝐘𝐘 𝐇𝐈𝐇𝐈!!}}$
+${\Huge \textsf{\color{#8e4594}𝐇𝐄𝐘𝐘 𝐇𝐈𝐇𝐈!!}}$
 
 ![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=🐑&color=8e4594)
 
-${\Huge \textsf{\color{#5a4b64}you can call me}}$ ${\Huge \textsf{\color{#5a4b64}SHEEPY!! }}$ ${\Huge \textsf{\color{#5a4b64} (or any name if}}$ ${\Huge \textsf{\color{#5a4b64}we are}}$ ${\Huge \textsf{\color{#5a4b64}close.) }}$
+${\Huge \textsf{\color{#8e4594}you can call me}}$ ${\Huge \textsf{\color{#523660}SHEEPY!! }}$ ${\Huge \textsf{\color{#252129} (or any name if}}$ ${\Huge \textsf{\color{#252129}we are}}$ ${\Huge \textsf{\color{#8e4594}close.) }}$
 
 <div align="center">
 
