@@ -21,3 +21,7 @@ from Lain ily<3
 <div align="center">
 <u><a href="https://purplesheep.atabook.org">ata</a></u> ✦
 <u><a href="https://purplesheepisme.straw.page">straw</a></u>
+
+<div align="center">
+
+${\Huge \textsf{\color{#8e4594}*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚}}$
