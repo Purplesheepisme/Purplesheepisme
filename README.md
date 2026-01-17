@@ -7,7 +7,7 @@ ${\Huge \textsf{\color{#5a4b64}HEYYY HII!!}}$
 
 ![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=🐑&color=8e4594)
 
-${\Huge \textsf{\color{#5a4b64}you can call me}}$ ${\Huge \textsf{\color{#5a4b64}SHEEPY!!}}$ ${\Huge \textsf{\color{#5a4b64} (or any name if}}$ ${\Huge \textsf{\color{#5a4b64}we are}}$ ${\Huge \textsf{\color{#5a4b64}close.}}$
+${\Huge \textsf{\color{#5a4b64}you can call me}}$ ${\Huge \textsf{\color{#5a4b64}SHEEPY!! }}$ ${\Huge \textsf{\color{#5a4b64} (or any name if}}$ ${\Huge \textsf{\color{#5a4b64}we are}}$ ${\Huge \textsf{\color{#5a4b64}close.) }}$
 
 <div align="center">
 
