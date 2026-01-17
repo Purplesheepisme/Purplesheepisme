@@ -3,7 +3,7 @@
 
 <div align="center">
 
-${\Huge \textsf{\color{#5a4b64}HEYYY HII!!}}$
+${\Huge \textsf{\color{#5a4b64}𝐇𝐄𝐘𝐘 𝐇𝐈𝐇𝐈!!}}$
 
 ![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=🐑&color=8e4594)
 
