@@ -3,6 +3,8 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Oswald+SC&size=20&duration=2500&pause=1000&color=F38AFF&center=true&width=450&lines=8e4594>>𝐇𝐄𝐘𝐘 𝐇𝐈𝐇𝐈!!!%E2%80%99;%E2%80%98SCROLL!%E2%80%99"/>
+
 ${\Huge \textsf{\color{#8e4594}𝐇𝐄𝐘𝐘 𝐇𝐈𝐇𝐈!!}}$
 
 ![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=🐑&color=8e4594)
