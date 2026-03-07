@@ -12,7 +12,7 @@ ${\Huge \textsf{\color{#8e4594}you can call me}}$ ${\Huge \textsf{\color{#523660
 ${\Huge \textsf{\color{#8e4594}I have many}}$ ${\Huge \textsf{\color{#523660}styles so}}$ ${\Huge \textsf{\color{#6f2475}im not copying}}$ ${\Huge \textsf{\color{#691fb0}anyone..}}$
  
 <div align="center">
-
+https://media.discordapp.net/attachments/1479958290426368123/1479977443552133312/Untitled36_20260307230144.png?ex=69adffe7&is=69acae67&hm=f86351d00393082b8ef478c05f1a6be27b9f825982c9b34bd3ebbc9c75c951a4&=&format=webp&quality=lossless&width=1022&height=1022
 <img width="956" height="778" alt="image" src="https://github.com/user-attachments/assets/c7364ca9-a83b-44bc-ab38-2a3409d1866c" />
 
 <div align="center">
