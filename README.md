@@ -13,7 +13,7 @@ ${\Huge \textsf{\color{#8e4594}I have many}}$ ${\Huge \textsf{\color{#523660}sty
  
 <div align="center">
 
- width=1022&height=1022
+
 <img width="956" height="778" alt="image" src="https://github.com/user-attachments/assets/c7364ca9-a83b-44bc-ab38-2a3409d1866c" />
 
 <div align="center">
