@@ -9,5 +9,3 @@
 
   wip
 
-  https://media.tenor.com/dCIdW-CU068AAAAM/all-might-armoured-all-might.gif
-
