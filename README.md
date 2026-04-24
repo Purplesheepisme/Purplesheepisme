@@ -13,6 +13,8 @@
 
 <div align="center">
 
-<img width="497" height="966" alt="image" src="https://github.com/user-attachments/assets/26298122-a10d-4b81-8147-9713e4e17a12" />
+
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/48a3dd80-4d7b-45cf-a852-6011380360fb" />
+
 
  irl friend calls All might as "bkdk"😭💔🥀
