@@ -7,7 +7,7 @@
 
 <div align="center">
 
- ${\textsf{\color{#ffffff}Im a multishipper so I ship erasermic and erasermight my two favs (*￣3￣)╭}}$
+ ${\textsf{\color{#99999}Im a multishipper so I ship erasermic and erasermight my two favs (*￣3￣)╭}}$
 
 
 
