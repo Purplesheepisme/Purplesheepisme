@@ -9,7 +9,7 @@
 
  ${\textsf{\color{#44444} I ship erasermic and erasermight! (*￣3￣)╭}}$
 
- ${\textsf{\color{#4f2424}I LOVE YOU LAIN, my BESTIE! You fill my heart with the light of a THOUSAND SUNS! Know that I'm always here for you, with a smile that says, 'I AM HERE!'}}$
+ ${\textsf{\color{#754545}I LOVE YOU LAIN, my BESTIE! You fill my heart with the light of a THOUSAND SUNS! Know that I'm always here for you, with a smile that says, 'I AM HERE!'}}$
 
 ${\textsf{\color{#666666}Go Beyond, Plus ultra!}}$
 
