@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  wip
+ Im a multishipper so I ship erasermic and erasermight my two favs (*￣3￣)╭
 
 
 
