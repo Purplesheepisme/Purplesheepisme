@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=✨&color=b8a56b)
+![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=🖤&color=777777)
 
 
 <div align="center">
 
- ${\textsf{\color{#a1a55e}Im a multishipper so I ship erasermic and erasermight my two favs (*￣3￣)╭}}$
+ ${\textsf{\color{#ffffff}Im a multishipper so I ship erasermic and erasermight my two favs (*￣3￣)╭}}$
 
 
 
