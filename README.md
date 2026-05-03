@@ -14,7 +14,7 @@
 <div align="center">
 
 
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/48a3dd80-4d7b-45cf-a852-6011380360fb" />
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/2d88017b-b94d-4d59-802b-bedac939eb80" />
 
 
  irl friend calls All might as "bkdk"😭💔🥀
