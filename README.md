@@ -7,7 +7,7 @@
 
 <div align="center">
 
- Im a multishipper so I ship erasermic and erasermight my two favs (*￣3￣)╭
+ ${\textsf{\color{#44848b}D}}$ ${\textsf{\color{#a1a55e}Im a multishipper so I ship erasermic and erasermight my two favs (*￣3￣)╭}}
 
 
 
