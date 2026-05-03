@@ -17,4 +17,3 @@
 <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/a7c8e39a-2eab-4595-be78-3a151d7b3072" />
 
 
- irl friend calls All might as "bkdk"😭💔🥀
