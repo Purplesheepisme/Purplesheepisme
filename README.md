@@ -15,6 +15,7 @@ ${\textsf{\color{#666666}Go Beyond, Plus ultra!}}$
 <div align="center">
 
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/a7c8e39a-2eab-4595-be78-3a151d7b3072" />
+<img width="918" height="1105" alt="image" src="https://github.com/user-attachments/assets/ed3661e7-0b96-4e1d-836a-0c6bf167e881" />
+
 
 <div align="center">
